@@ -8,7 +8,7 @@
 </h2> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Development;Exploring+realms+of+AI+and+ML;Creating+meaningful+applications&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Exploring+realms+of+AI+and+ML;Creating+meaningful+applications&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="README Typing SVG">
 </p>
 
 <h2 align='center'> 
